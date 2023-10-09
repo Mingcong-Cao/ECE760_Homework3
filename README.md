@@ -1,1 +1,1 @@
-This is homework 3 for CS/ECE 760 at UW-Madison.
+This is homework 3 for CS/ECE 760 at UW-Madison. KNN and Logistic Regression usign gradient descent are implemented from scratch.
